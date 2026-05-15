@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Oleksii
+# 👋 Hi, I'm Alexey
 
 Engineer - analytical problem‑solver with a strong background in data engineering, software development, and client‑focused technical delivery. I specialise in breaking down complex systems, analysing behaviour, and turning ambiguity into clear, structured insights.
 
