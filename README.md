@@ -24,12 +24,27 @@ It focuses on clean architecture, reproducible workflows, and practical automati
 ---
 
 ## 🛠 Tech Stack
-- Python, SQL, Java  
-- Git & GitHub  
-- Azure, OLTP/OLAP systems  
-- Linux & Windows  
-- API‑driven workflows  
-- Basic CNC & workshop tools  
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+
+### Systems & Environments
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
+![OLTP/OLAP](https://img.shields.io/badge/OLTP%2FOLAP-4B8BBE?logo=database&logoColor=white)
+
+### Workflows & Other Skills
+![APIs](https://img.shields.io/badge/API--driven_Workflows-6DB33F?logo=swagger&logoColor=white)
+![CNC](https://img.shields.io/badge/Basic_CNC_Tools-555555?logo=gear&logoColor=white)
+![Workshop](https://img.shields.io/badge/Workshop_Tools-888888?logo=tools&logoColor=white)
+ 
 
 ---
 
